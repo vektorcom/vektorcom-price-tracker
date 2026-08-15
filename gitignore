@@ -1,0 +1,6 @@
+# Vektorcom Git Security Shield
+.env
+logs/
+data/
+__pycache__/
+*.pyc
